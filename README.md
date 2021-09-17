@@ -1,2 +1,2 @@
 # OSMOSIS_moorings
-I will summarise results from OSMOSIS moorings
+In this repository, I will summarise my results of the OSMOSIS project.
