@@ -1,0 +1,240 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.148.0.185:58294'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.148.0.185:54381'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.148.0.185:39633'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.148.0.185:59368'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.148.0.185:46632'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.148.0.185:39056'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.148.0.185:52428'
+distributed.worker - INFO -       Start worker at:   tcp://10.148.0.185:47909
+distributed.worker - INFO -       Start worker at:   tcp://10.148.0.185:32907
+distributed.worker - INFO -       Start worker at:   tcp://10.148.0.185:54914
+distributed.worker - INFO -          Listening to:   tcp://10.148.0.185:32907
+distributed.worker - INFO -          dashboard at:         10.148.0.185:38589
+distributed.worker - INFO -       Start worker at:   tcp://10.148.0.185:56141
+distributed.worker - INFO -          Listening to:   tcp://10.148.0.185:54914
+distributed.worker - INFO - Waiting to connect to:    tcp://10.148.0.78:37998
+distributed.worker - INFO -          dashboard at:         10.148.0.185:53475
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://10.148.0.185:56141
+distributed.worker - INFO - Waiting to connect to:    tcp://10.148.0.78:37998
+distributed.worker - INFO -          Listening to:   tcp://10.148.0.185:47909
+distributed.worker - INFO -          dashboard at:         10.148.0.185:55485
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:    tcp://10.148.0.78:37998
+distributed.worker - INFO -          dashboard at:         10.148.0.185:55660
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                  15.97 GiB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:    tcp://10.148.0.78:37998
+distributed.worker - INFO -       Local Directory: /dev/shm/pbs.477000.datarmor0/dask-worker-space/worker-xvsxcrc_
+distributed.worker - INFO -                Memory:                  15.97 GiB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /dev/shm/pbs.477000.datarmor0/dask-worker-space/worker-jvvrglp5
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                  15.97 GiB
+distributed.worker - INFO -       Local Directory: /dev/shm/pbs.477000.datarmor0/dask-worker-space/worker-xrd6r0bi
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  15.97 GiB
+distributed.worker - INFO -       Local Directory: /dev/shm/pbs.477000.datarmor0/dask-worker-space/worker-rmxp2wyt
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.148.0.185:51810
+distributed.worker - INFO -          Listening to:   tcp://10.148.0.185:51810
+distributed.worker - INFO -          dashboard at:         10.148.0.185:58260
+distributed.worker - INFO - Waiting to connect to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  15.97 GiB
+distributed.worker - INFO -       Local Directory: /dev/shm/pbs.477000.datarmor0/dask-worker-space/worker-g0czo02z
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.148.0.185:58898
+distributed.worker - INFO -          Listening to:   tcp://10.148.0.185:58898
+distributed.worker - INFO -          dashboard at:         10.148.0.185:41335
+distributed.worker - INFO -       Start worker at:   tcp://10.148.0.185:52895
+distributed.worker - INFO - Waiting to connect to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://10.148.0.185:52895
+distributed.worker - INFO -          dashboard at:         10.148.0.185:58743
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:    tcp://10.148.0.78:37998
+distributed.worker - INFO -                Memory:                  15.97 GiB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /dev/shm/pbs.477000.datarmor0/dask-worker-space/worker-ijo0dlxn
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                  15.97 GiB
+distributed.worker - INFO -       Local Directory: /dev/shm/pbs.477000.datarmor0/dask-worker-space/worker-lbrpqadf
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Event loop was unresponsive in Worker for 49.19s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 49.19s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 49.20s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 49.20s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.148.0.110:35157
+Traceback (most recent call last):
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/comm/core.py", line 285, in connect
+    comm = await asyncio.wait_for(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/worker.py", line 2169, in gather_dep
+    response = await get_data_from_worker(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/worker.py", line 3442, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/worker.py", line 3419, in _get_data
+    comm = await rpc.connect(worker)
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/core.py", line 1010, in connect
+    comm = await connect(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/comm/core.py", line 307, in connect
+    raise IOError(
+OSError: Timed out trying to connect to tcp://10.148.0.110:35157 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.148.0.110:35157
+Traceback (most recent call last):
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/comm/core.py", line 285, in connect
+    comm = await asyncio.wait_for(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/worker.py", line 2169, in gather_dep
+    response = await get_data_from_worker(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/worker.py", line 3442, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/worker.py", line 3419, in _get_data
+    comm = await rpc.connect(worker)
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/core.py", line 1010, in connect
+    comm = await connect(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/comm/core.py", line 307, in connect
+    raise IOError(
+OSError: Timed out trying to connect to tcp://10.148.0.110:35157 after 10 s
+distributed.worker - INFO - Can't find dependencies for key ('open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811', 0, 24, 85, 0)
+distributed.worker - INFO - Can't find dependencies for key ('open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811', 0, 31, 162, 0)
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.148.0.110:35157
+Traceback (most recent call last):
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/comm/core.py", line 285, in connect
+    comm = await asyncio.wait_for(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/worker.py", line 2169, in gather_dep
+    response = await get_data_from_worker(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/worker.py", line 3442, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/worker.py", line 3419, in _get_data
+    comm = await rpc.connect(worker)
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/core.py", line 1010, in connect
+    comm = await connect(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/comm/core.py", line 307, in connect
+    raise IOError(
+OSError: Timed out trying to connect to tcp://10.148.0.110:35157 after 10 s
+distributed.worker - INFO - Can't find dependencies for key ('open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811', 0, 28, 142, 0)
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.148.0.110:35157
+Traceback (most recent call last):
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/comm/core.py", line 285, in connect
+    comm = await asyncio.wait_for(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/worker.py", line 2169, in gather_dep
+    response = await get_data_from_worker(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/worker.py", line 3442, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/worker.py", line 3419, in _get_data
+    comm = await rpc.connect(worker)
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/core.py", line 1010, in connect
+    comm = await connect(
+  File "/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/site-packages/distributed/comm/core.py", line 307, in connect
+    raise IOError(
+OSError: Timed out trying to connect to tcp://10.148.0.110:35157 after 10 s
+distributed.worker - INFO - Can't find dependencies for key ('open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811', 0, 51, 174, 0)
+distributed.worker - INFO - Can't find dependencies for key ('open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811', 0, 28, 76, 0)
+distributed.worker - INFO - Can't find dependencies for key ('open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811', 0, 14, 68, 0)
+distributed.worker - INFO - Can't find dependencies for key ('open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811', 0, 28, 8, 0)
+distributed.worker - INFO - Can't find dependencies for key ('open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811', 0, 9, 57, 0)
+distributed.worker - INFO - Can't find dependencies for key ('open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811', 0, 14, 68, 0)
+distributed.worker - INFO - Can't find dependencies for key ('open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811', 0, 28, 75, 0)
+distributed.worker - INFO - Can't find dependencies for key ('open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811', 0, 41, 19, 0)
+distributed.worker - INFO - Dependent not found: open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811 0 .  Asking scheduler
+distributed.worker - INFO - Dependent not found: open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811 0 .  Asking scheduler
+distributed.worker - INFO - Can't find dependencies for key ('open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811', 0, 9, 106, 0)
+distributed.worker - INFO - Dependent not found: open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811 0 .  Asking scheduler
+distributed.worker - INFO - Dependent not found: open_dataset-4c617f13d62c66045d9fcc0d13768206B_low_filter-c2b3adc92032da1fe591171e3bf50811 0 .  Asking scheduler
+distributed.core - INFO - Event loop was unresponsive in Worker for 52.15s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 52.14s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 52.14s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.utils_perf - INFO - full garbage collection released 877.62 MiB from 237 reference cycles (threshold: 9.54 MiB)
+Terminated
+distributed.dask_worker - INFO - Exiting on signal 15
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.148.0.185:58294'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.148.0.185:54381'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.148.0.185:39633'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.148.0.185:59368'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.148.0.185:46632'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.148.0.185:39056'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.148.0.185:52428'
+distributed.nanny - INFO - Worker process 52797 was killed by unknown signal
+distributed.nanny - INFO - Worker process 52801 was killed by unknown signal
+distributed.nanny - INFO - Worker process 52805 was killed by unknown signal
+distributed.nanny - INFO - Worker process 52809 was killed by unknown signal
+distributed.nanny - INFO - Worker process 52799 was killed by unknown signal
+distributed.nanny - INFO - Worker process 52807 was killed by unknown signal
+distributed.nanny - INFO - Worker process 52803 was killed by unknown signal
+distributed.dask_worker - INFO - End worker
+/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 7 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

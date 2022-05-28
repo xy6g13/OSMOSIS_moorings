@@ -1,0 +1,121 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.148.0.77:39297'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.148.0.77:34624'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.148.0.77:53523'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.148.0.77:48401'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.148.0.77:39519'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.148.0.77:39334'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.148.0.77:52651'
+distributed.worker - INFO -       Start worker at:    tcp://10.148.0.77:33112
+distributed.worker - INFO -       Start worker at:    tcp://10.148.0.77:50709
+distributed.worker - INFO -          Listening to:    tcp://10.148.0.77:33112
+distributed.worker - INFO -       Start worker at:    tcp://10.148.0.77:51314
+distributed.worker - INFO -          Listening to:    tcp://10.148.0.77:50709
+distributed.worker - INFO -          dashboard at:          10.148.0.77:52654
+distributed.worker - INFO -       Start worker at:    tcp://10.148.0.77:51885
+distributed.worker - INFO -          dashboard at:          10.148.0.77:45096
+distributed.worker - INFO - Waiting to connect to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - Waiting to connect to:    tcp://10.148.0.78:37998
+distributed.worker - INFO -       Start worker at:    tcp://10.148.0.77:57962
+distributed.worker - INFO -       Start worker at:    tcp://10.148.0.77:52970
+distributed.worker - INFO -          Listening to:    tcp://10.148.0.77:51885
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          10.148.0.77:55145
+distributed.worker - INFO -       Start worker at:    tcp://10.148.0.77:54973
+distributed.worker - INFO -          Listening to:    tcp://10.148.0.77:57962
+distributed.worker - INFO -          Listening to:    tcp://10.148.0.77:52970
+distributed.worker - INFO - Waiting to connect to:    tcp://10.148.0.78:37998
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          dashboard at:          10.148.0.77:55589
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.148.0.77:54973
+distributed.worker - INFO -          dashboard at:          10.148.0.77:44086
+distributed.worker - INFO -                Memory:                  15.97 GiB
+distributed.worker - INFO - Waiting to connect to:    tcp://10.148.0.78:37998
+distributed.worker - INFO -                Memory:                  15.97 GiB
+distributed.worker - INFO -          Listening to:    tcp://10.148.0.77:51314
+distributed.worker - INFO - Waiting to connect to:    tcp://10.148.0.78:37998
+distributed.worker - INFO -          dashboard at:          10.148.0.77:59179
+distributed.worker - INFO -       Local Directory: /dev/shm/pbs.476993.datarmor0/dask-worker-space/worker-_t7i_cwg
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /dev/shm/pbs.476993.datarmor0/dask-worker-space/worker-9h047jvp
+distributed.worker - INFO - Waiting to connect to:    tcp://10.148.0.78:37998
+distributed.worker - INFO -          dashboard at:          10.148.0.77:56253
+distributed.worker - INFO -                Memory:                  15.97 GiB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:    tcp://10.148.0.78:37998
+distributed.worker - INFO -       Local Directory: /dev/shm/pbs.476993.datarmor0/dask-worker-space/worker-lq_kvwk6
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                  15.97 GiB
+distributed.worker - INFO -                Memory:                  15.97 GiB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /dev/shm/pbs.476993.datarmor0/dask-worker-space/worker-ecfz0xml
+distributed.worker - INFO -       Local Directory: /dev/shm/pbs.476993.datarmor0/dask-worker-space/worker-znuz279m
+distributed.worker - INFO -                Memory:                  15.97 GiB
+distributed.worker - INFO -       Local Directory: /dev/shm/pbs.476993.datarmor0/dask-worker-space/worker-54u3se8v
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                  15.97 GiB
+distributed.worker - INFO -       Local Directory: /dev/shm/pbs.476993.datarmor0/dask-worker-space/worker-lwsq2f8e
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.148.0.78:37998
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Event loop was unresponsive in Worker for 51.56s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 51.57s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 51.61s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 51.64s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 51.64s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 51.56s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 51.49s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.utils_perf - INFO - full garbage collection released 335.66 MiB from 1605 reference cycles (threshold: 9.54 MiB)
+distributed.utils_perf - INFO - full garbage collection released 756.64 MiB from 3523 reference cycles (threshold: 9.54 MiB)
+Terminated
+distributed.dask_worker - INFO - Exiting on signal 15
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.148.0.77:39297'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.148.0.77:34624'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.148.0.77:53523'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.148.0.77:48401'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.148.0.77:39519'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.148.0.77:39334'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.148.0.77:52651'
+distributed.nanny - INFO - Worker process 25026 was killed by unknown signal
+distributed.nanny - INFO - Worker process 25034 was killed by unknown signal
+distributed.nanny - INFO - Worker process 25024 was killed by unknown signal
+distributed.nanny - INFO - Worker process 25032 was killed by unknown signal
+distributed.nanny - INFO - Worker process 25028 was killed by unknown signal
+distributed.nanny - INFO - Worker process 25036 was killed by unknown signal
+distributed.nanny - INFO - Worker process 25030 was killed by unknown signal
+distributed.dask_worker - INFO - End worker
+/home1/datahome/xyu/.miniconda3/envs/equinox/lib/python3.8/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 7 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
